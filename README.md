@@ -18,7 +18,7 @@
 | Título | Responsável | 
 | -- | -- | 
 | 215. Kth Largest Element in an Array | Fábio gabriel | 
-|   | Nathan Abreu | 
+| 43. Multiply Strings  | Nathan Abreu | 
 
 
 
@@ -26,7 +26,7 @@
 | Título | Responsável | 
 | -- | -- | 
 | 3193. Count the Number of Inversions | Fábio Gabriel | 
-|   | Nathan Abreu | 
+| 87. Scramble String  | Nathan Abreu | 
 
 
 ## Screenshots
@@ -38,13 +38,13 @@
 
 ![ (Contagem de inversões)](img/Contagem_Inversões.png)
 
-### [(Interval Scheduling)]()
+### [(Karatsuba)](https://leetcode.com/problems/multiply-strings/description/)
 
-![(Interval Scheduling)](img/leastismost.PNG)
+![(Karatsuba](img/Karatsuba.PNG)
 
-### [ (Caminhoneiro)]()
+### [(Strassen)](https://leetcode.com/problems/scramble-string/description/)
 
-![ (Caminhoneiro)](img/TruckDriver.PNG)
+![ (Strassen)](img/Strassen.PNG)
 
 
 ## Link do vídeo
@@ -80,8 +80,39 @@ Saida esperada:
 Output: 2
 
 ```
+
+
+###  (Karatsuba)
+Abra o terminal e vá para pasta Nathan
+```
+cd ~/Dividir_e_Conquistar/Nathan
+```
+para executar
+```
+python Karatsuba.py
+```
+Saida esperada:
+```
+Output: 6
+```
+
+
+###  (Strassen)
+Abra o terminal e vá para pasta Nathan
+```
+cd ~/Dividir_e_Conquistar/Nathan
+```
+para executar
+```
+python Strassen.py
+```
+Saida esperada:
+```
+Output: True
+
+```
 ## Instalação 
 GCC instalado 
 python instalado
 
-**Linguagem**: C, Python <br>
+**Linguagem**: Python <br>
