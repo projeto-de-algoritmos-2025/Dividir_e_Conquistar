@@ -49,6 +49,8 @@
 
 ## Link do vídeo
 
+https://www.youtube.com/watch?v=QMP0yqwWKV0
+
 
 
 ## Guia de execução
